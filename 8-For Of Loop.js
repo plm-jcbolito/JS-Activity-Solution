@@ -1,5 +1,5 @@
 const givenArray = [1, 0, -29, "Hello", -6, 20, 0, "World"];
-
+// test
 for (const element of givenArray) {
 	if (typeof (element) == 'number') {
 		if (element > 0) {
